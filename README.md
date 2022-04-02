@@ -2,15 +2,26 @@
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
 
-## YourCollectible: 
-```code
-0xf8760d106597547984d609491a9634909a5afb6098ce592417f49a1df3a47852
-```
+## YourCollectible
 
-## Deployed Contract
+    ```code
+    0xeC8447c7968a1ca47424ef14e31724ce9ad61d97
+    <!-- 0xf8760d106597547984d609491a9634909a5afb6098ce592417f49a1df3a47852 -->
+    ```
+<!-- ## IPFS: 
+
+    ```code
+    Qmc9hvaC9EUK7efbCfJc2QESB9NxW84jbPiTvz1p6Lh91d
+    ``` -->
+## Live Demo/ Domain Link:
 ```code
-0xeC8447c7968a1ca47424ef14e31724ce9ad61d97
+harbiola-challenge.surge.sh 
 ```
+## Deployed Contract
+
+    ```code
+    0xeC8447c7968a1ca47424ef14e31724ce9ad61d97
+    ```
 
 
 🎫 Create a simple NFT to learn basics of 🏗 scaffold-eth. You'll use [👷‍♀️ HardHat](https://hardhat.org/getting-started/) to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
