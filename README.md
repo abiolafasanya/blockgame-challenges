@@ -16,8 +16,8 @@ https://rinkeby.etherscan.io/address/0xe84Ab2A3BaF06FbEF83D820d628BABf2975ba11f
 https://rinkeby.etherscan.io/address/0x621138CDa87096a7D476e7a17Fc8447c6e2Ee4e0
 ```
 
-## Deployed Address
-harbiolach2.surge.sh
+## Deployed Live Demo Address 
+http://harbiolach2.surge.sh/
 
 > 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.
 
