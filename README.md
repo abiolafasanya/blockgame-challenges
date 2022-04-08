@@ -16,7 +16,7 @@ https://rinkeby.etherscan.io/address/0xD697A2BC50C74488503B13412D1200686D3AE0EF
 ```
 
 ## Deployed Live Demo
-http://normal-low.surge.sh
+https://pleasant-fang.surge.sh
 
 > 🤖 Smart contracts are kind of like "always on" *vending machines* that **anyone** can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.  
 
